@@ -1,0 +1,79 @@
+{
+
+   
+    "Card": [
+        {
+            "id":"1",
+            "title":"Prove your skills ",
+            "icon":"carbon_notebook-reference.svg",
+            "content":"Gain substantial experience by solving real-world problems and put against others to come up with innovative solutions."
+        },
+        {
+            "id":"2",
+            "title":"Learn from community",
+            "icon":"Vector.svg",
+            "content":"One can look and analyze the solutions submitted by the other Data scientists in the community and learn from them."
+
+        },
+        
+        {
+            "id":"3",
+            "title":"Challenge yourself",
+            "icon":"Robot.svg",
+            "content":"There is nothing for you to lose by participating in a challenge. You can fail safe, learn out of the entire experience and bounce back harder."
+        },
+        {
+            "id":"4",
+            "title":"Earn recognition",
+            "icon":"IdentificationCard.svg",
+            "content":"You will stand out from the crowd if you do well in AI challenges, it not only helps you shine in the community but also earns rewards."
+
+        }
+      
+    ],
+    "HackathonCard": [
+        {
+            "id":"1",
+            "title":"Data science bootcamp-Graded Datathon ",
+            "icon":"Group 1000002466.png",
+            "status":"Upcoming"
+            
+        },
+        {
+            "id":"2",
+            "title":"Data sprint 72-Butterfly Identification",
+            "icon":"Group 1000002766.png",
+            "status":"Upcoming"
+            
+
+        },
+        
+        {
+            "id":"3",
+            "title":"Data Sprint 71- Weather Recognition",
+            "icon":"Group 1000002767.png",
+            "status":"Active"
+        },
+        {
+            "id":"4",
+            "title":"Data sprint 70-Airline Passenger Satisfaction",
+            "icon":"Group 1000002771.png",
+            "status":"Active"
+
+        },
+        {
+            "id":"5",
+            "title":"Engineering Graduates Employment Outcomes",
+            "icon":"Group 1000002772.png",
+            "status":"Past"
+        },
+        {
+            "id":"6",
+            "title":"Travel Insurance Claim Prediction",
+            "icon":"Group 1000002773.png",
+            "status":"Past"
+            
+        }
+      
+    ]
+}
